@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrey N. Petrov
-- 👀 I’m interested in Terraform, AWS, Python, Golang, Unity3D
-- 🌱 I’m currently learning Golang, Unity3D
+- 👀 I’m interested in Terraform, AWS, Python, Golang
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: andreynpetrov@gmail.com
 
